@@ -18,6 +18,6 @@ def subtract(a, b):
         b (float): Вычитаемое.
 
     Returns:
-        float: Результат вычитания.
+        float: Результат вычитания
     """
     return a - b
